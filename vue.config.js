@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/dist/'
+  publicPath: '/vueCLI/dist/'
 };
 // module.exports = {
 //   css: {
